@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:12.5
 MAINTAINER IronicBadger <ironicbadger@linuxserver.io>
 ENV SNAPRAID_VERSION=10.0
 
